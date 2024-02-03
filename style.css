@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 24px;
+}
+
+.main-page--ul {
+    text-align: center;
+    margin-top: 24px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.main-page--li {
+    list-style: none;
+}
+
+.main-page--li a {
+    text-decoration: none;
+}

@@ -1,0 +1,25 @@
+.recipe-page--description {
+    display: flex;
+    align-items: center;
+    margin: 24px auto;
+    max-width: 60%;
+}
+
+.recipe-page--description div h2,
+.recipe-page--description div p {
+    margin: 8px;
+}
+
+.recipe-page--preparation {
+    max-width: 60%;
+    margin: 24px auto;
+}
+
+.recipe-page--preparation h3 {
+    margin-top: 24px;
+}
+
+.recipe-page--preparation li {
+    margin: 8px;
+}
+
